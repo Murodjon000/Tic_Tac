@@ -95,14 +95,6 @@ Ruby,Text editor,Github profile and Git.
 - LinkedIn: [murodjon-tursunpulatov](https://www.linkedin.com/in/murodjon-tursunpulatov-5189481b3/)
 
 
-👤 **Taiwo Adetona**
-
-- Github: [@taiwo2](https://github.com/taiwo2)
-
-- LinkedIn: [Taiwo Adetona](https://www.linkedin.com/in/taiwo-waliyullahi-adetona-988898180/)
-
-- Twitter: [@TaiwoAdetona4](https://twitter.com/TaiwoAdetona4/)
-
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
@@ -115,4 +107,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is a collaboration project. All rights are reserved for Murodjon and Taiwo.
+This project is a collaboration project. All rights are reserved for Murodjon.
